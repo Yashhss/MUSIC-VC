@@ -1,8 +1,8 @@
 {
     "name": "Legend Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
-    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
+    "repository": "https://github.com/yashhss/MUSIC-VC",
+    "logo": "https://github.com/yashhss/MUSIC-VC/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
